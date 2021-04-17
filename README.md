@@ -6,3 +6,6 @@ Classification of soils can be an extremely important skill in many different fi
 
 ### Objective
 In this exercise, you will use computer vision to make a simple classification nodel of soils based on photos of gravel, sand, and silt. A convolutional neural network framework is provided below and will be used to complete the objective of the exercise. Your objective is to run several models, by changing key parameters such as the number of convolutional layers and the number of nodes in each convolutional layer within the CNN. Then, you will use the Tensorflow callback Tensorboard to determine which model preformed best.
+
+
+### Feel free to contact me for the key to check your answers, my email is pvankatwyk@gmail.com
